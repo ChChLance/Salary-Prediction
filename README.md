@@ -1,6 +1,6 @@
 ## Predict whether income exceeds $50K/yr based on census data with R
 ##### Introduction: 
-###### The level of salary can determine what kind of life a person can live as lower salaries come with more budgeting by the person. We are interested in the relation between people’s attributes (education, race, age, etc) and their salary. After analyzing the data, we will then create a machine learning model to predict whether a person's salary will be greater than $50k a year.
+###### The level of salary can determine what kind of life a person can live as lower salaries come with more budgeting by the person. We are interested in the relationship between people’s attributes (education, race, age, etc) and their salary. After analyzing the data, we will then create a machine learning model to predict whether a person's salary will be greater than $50k a year.
 
 ##### Process:
 ###### 1. Data cleaning
